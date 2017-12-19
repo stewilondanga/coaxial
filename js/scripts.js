@@ -33,6 +33,8 @@ $('#txt').keydown(function (e){
             output[0].scrollHeight - output.height()
           );
 
-          
+          $("#form")[0].reset();
+
     }
-})
+
+});
