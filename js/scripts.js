@@ -38,3 +38,7 @@ $('#txt').keydown(function (e){
     }
 
 });
+
+$( "#txt" ).bind( "click", function() {
+  $(".intent").html("greatness.");
+});
