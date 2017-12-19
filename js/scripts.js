@@ -17,3 +17,15 @@ $( ".part" ).click(function() {
   }
 
 });
+
+
+$('#txt').keydown(function (e){
+    if(e.keyCode == 13){
+      var here="<div class='o'><img align='right' src='url("../assets/ring.gif")' width='30px'> © Copyright 2017 - Stewart ilondanga",
+          here = $("#txt").val(),
+          output = $('.message'),
+          sil = "<div class='sil'></div>";
+
+          
+    }
+})
