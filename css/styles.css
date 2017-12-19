@@ -39,3 +39,11 @@ input {
 p {
   margin: 0;
 }
+
+#chat {
+  bottom: 0;
+  font-size:12px;
+  right: 24px;
+  position: fixed;
+  width: 300px;
+}
