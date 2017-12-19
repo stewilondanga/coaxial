@@ -52,3 +52,13 @@ p {
   cursor: pointer;
   padding:16px 24px;
 }
+
+#chat h4:before {
+  background: #1a8a34;
+  border-radius: 50%;
+  content: "";
+  display: inline-block;
+  height: 8px;
+  margin: 0 8px 0 0;
+  width: 8px;
+}
