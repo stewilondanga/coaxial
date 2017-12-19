@@ -29,6 +29,10 @@ $('#txt').keydown(function (e){
           $("#son").append("<div class='sen'>"+heres+sil+"</div>"+sil+here+sil+"</div>");
 
 
+          output.scrollTop(
+            output[0].scrollHeight - output.height()
+          );
+
           
     }
 })
