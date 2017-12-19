@@ -82,3 +82,18 @@ p {
   outline: none;
   width: 234px;
 }
+
+.part {
+  background: #a00;
+  border-radius: 50%;
+  color: #fff;
+  display: block;
+  float: right;
+  font-size: 20px;
+  height: 16px;
+  line-height: 13px;
+  margin: 0px 0 0 0;
+  text-align: center;
+  width: 16px;
+  border: solid #a00 2px;
+}
