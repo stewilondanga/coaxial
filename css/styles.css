@@ -70,3 +70,7 @@ p {
 #chat h5 {
   font-size: 10px;
 }
+
+#chat form {
+  padding: 24px;
+}
