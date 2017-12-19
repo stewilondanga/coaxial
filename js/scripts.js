@@ -7,5 +7,13 @@ $( ".part" ).click(function() {
       bottom: "-314px"
     }, 1000);
 
+  }else{
+    here.html("-");
+    chat.animate({
+      opacity: 1,
+      bottom: "0px"
+    }, 1000);
+
   }
-})
+
+});
