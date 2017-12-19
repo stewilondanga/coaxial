@@ -97,3 +97,8 @@ p {
   width: 16px;
   border: solid #a00 2px;
 }
+
+.part:hover{
+  background: #a00;
+  border: solid 2px rgba(255,255,255,0.2);
+}
