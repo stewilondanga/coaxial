@@ -44,3 +44,11 @@ p {
   position: fixed;
   width: 300px;
 }
+
+#chat header {
+  background: #171717;
+  border-radius: 5px 5px 0 0;
+  color: #fff;
+  cursor: pointer;
+  padding:16px 24px;
+}
