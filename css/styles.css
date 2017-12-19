@@ -106,3 +106,9 @@ p {
 .chat {
   background: #fff;
 }
+
+.message {
+  height: 252px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
